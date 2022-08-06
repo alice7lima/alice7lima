@@ -32,7 +32,7 @@
 
 
 ## ✒️ Papers
-
+- [Análise do Desempenho Acadêmico das Alunas Cotistas na Primeira Disciplina de Programação da Universidade de Brasília](https://sol.sbc.org.br/index.php/wit/article/view/20854)
 - [Uma Iniciativa para Aumentar a Participação Feminina nas Competições de Programação: um Relato de Experiência.](https://sol.sbc.org.br/index.php/wit/article/view/15858)
 - [Computing for girls in elementary school in Brazil: A mapping of literature.](http://ceur-ws.org/Vol-3000/paper121.pdf)
 - [Iniciativas Educacionais para Permanência das Mulheres em Cursos de Graduação em Computação no Brasil (Educational Initiatives for Women's Permanence in Undergraduate Computing Courses in Brazil).](https://www.semanticscholar.org/paper/Iniciativas-Educacionais-para-Perman%C3%AAncia-das-em-de-Holanda-Lima/5d0cfdbe6c3a732703701f57bf2d9f56c548c6e9)
