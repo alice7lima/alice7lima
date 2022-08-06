@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👩‍💻 <br> I'm Alice Lima</h1>
+<h1 align="center">Hi there! 👩🏻‍💻 <br> I'm Alice Lima</h1>
 
 - 🏢 Researcher on [KnEDLe-UnB](https://nido.unb.br/) and member of [Meninas.comp](https://www.meninas.cic.unb.br/).
 - 🔥 Focused on **Data Engineering**.
