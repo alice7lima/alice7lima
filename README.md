@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋🏻 <br> I'm Alice Lima</h1>
+<h1 align="center">Hi there! 👩‍💻 <br> I'm Alice Lima</h1>
 
 - 🏢 Researcher on [KnEDLe-UnB](https://nido.unb.br/) and member of [Meninas.comp](https://www.meninas.cic.unb.br/).
 - 🔥 Focused on **Data Engineering**.
@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-9cf?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/C-9CF?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-9cf?style=for-the-badge&logo=c%2B%2B&logoColor=black)&nbsp;
+![R](https://img.shields.io/badge/R-9cf?style=for-the-badge&logo=r&logoColor=black)&nbsp;
 
 #### 💻 Softwares
 
