@@ -4,7 +4,7 @@
 - 🔥 Meu foco atual é me tornar uma **Engenheira de Dados**.
 - 🌱 Atualmente estudando **Processamento de Linguagem Natural**.
 
-## 🛠 Ferramentas que utilizo
+## 🛠 Recursos que utilizo
 
 ####  🎲 Bancos de Dados
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-9cf?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
