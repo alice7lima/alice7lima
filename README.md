@@ -1,8 +1,8 @@
 <h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou estudante de Ciência da Computação na Universidade de Brasília</h1>
 
-- 🏢 Pesquisadora no projeto [KnEDLe-UnB](https://nido.unb.br/) e integrante do projeto [Meninas.comp](https://www.meninas.cic.unb.br/).
-- 🔥 Meu foco atual é me tornar uma **Engenheira de Dados**.
-- 🌱 Atualmente estudando **Processamento de Linguagem Natural**.
+- 🏢 Integrante do projeto [Meninas.comp](https://www.meninas.cic.unb.br/).
+- 🔥 Meu foco atual é me tornar uma **Cientista de Dados**.
+- 🌱 Atualmente estudando **Estatística**.
 
 ## 🛠 Recursos que utilizo
 
