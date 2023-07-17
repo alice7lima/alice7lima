@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou estudante de Ciência da Computação na Universidade de Brasília</h1>
 
-- 🏢 Integrante do projeto [Meninas.comp](https://www.meninas.cic.unb.br/).
 - 🔥 Meu foco atual é me tornar uma **Cientista de Dados**.
 - 🌱 Atualmente estudando **Estatística**.
 
