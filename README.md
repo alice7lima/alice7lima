@@ -27,7 +27,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-9CF?style=for-the-badge&logo=Pandas&logoColor=black)&nbsp;
 ![SciKitLearn](https://img.shields.io/badge/SciKit--Learn-9CF?style=for-the-badge&logo=scikit-learn&logoColor=black)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-9CF?style=for-the-badge&logo=numpy&logoColor=black)&nbsp;
-![Pytorch](https://img.shields.io/badge/pytorch-9cf?style=for-the-badge&logo=pytorch&logoColor=black)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/tensorflow-9cf?style=for-the-badge&logo=tensorflow&logoColor=black)&nbsp;
 
 
