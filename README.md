@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou estudante de Ciência da Computação na Universidade de Brasília</h1>
+<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou mestranda na Universidade de Brasília</h1>
 
 - 🔥 Meu foco atual é me tornar uma **Cientista de Dados**.
 - 🌱 Atualmente estudando **Estatística**.
