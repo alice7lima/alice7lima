@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou mestranda na Universidade de Brasília</h1>
 
-- 🔥 Meu foco atual é me tornar uma **Engenheira de Dados**.
+- 🔥 Meu foco atual é me tornar uma **Engenheira de Dados** e **Analista de Dados**.
 - 🌱 Atualmente estudando para certificação do **Apache Airflow**.
 
 ## 🛠 Recursos que utilizo
