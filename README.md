@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou mestranda na Universidade de Brasília</h1>
+<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou desenvolvedora Python Jr, e também sou mestranda na Universidade de Brasília</h1>
 
-- 🔥 Meu foco atual é me tornar uma **Engenheira de Dados** e **Analista de Dados**.
+- 🔥 Meu foco atual é evoluir na programação em Python e também me tornar uma **Engenheira de Dados**.
 - 🌱 Atualmente trabalhando em projetos para o meu portfolio.
 
 ## 🛠 Recursos que utilizo
@@ -15,7 +15,6 @@
 ![Python](https://img.shields.io/badge/Python-9cf?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![C](https://img.shields.io/badge/C-9CF?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-9cf?style=for-the-badge&logo=c%2B%2B&logoColor=black)&nbsp;
-![R](https://img.shields.io/badge/R-9cf?style=for-the-badge&logo=r&logoColor=black)&nbsp;
 
 #### 💻 Softwares
 
