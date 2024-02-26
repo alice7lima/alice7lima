@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou desenvolvedora Python Jr, e também sou mestranda na Universidade de Brasília</h1>
+<h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima e atualmente sou desenvolvedora Python Jr, e estudo para me tornar uma Engenheira de Dados.</h1>
 
 - 🔥 Meu foco atual é evoluir na programação em Python e também me tornar uma **Engenheira de Dados**.
 - 🌱 Atualmente trabalhando em projetos para o meu portfolio.
