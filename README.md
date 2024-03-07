@@ -16,9 +16,6 @@
 ![C](https://img.shields.io/badge/C-9CF?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-9cf?style=for-the-badge&logo=c%2B%2B&logoColor=black)&nbsp;
 
-#### 💻 Softwares
-
-![PowerBI](https://img.shields.io/badge/PowerBI-9CF?style=for-the-badge&logo=PowerBI&logoColor=black)&nbsp;
 
 #### 📖 Bibliotecas
 
