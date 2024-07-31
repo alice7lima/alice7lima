@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👩🏻‍💻 <br> Me chamo Alice Lima, e sou Engenheira de Dados..</h1>
 
-- 🔥 Meu foco atual é evoluir minhas habilidades em **Engenheira de Dados**.
+- 🔥 Meu foco atual é evoluir minhas habilidades em **Engenheira de Dados**
 - 🌱 Atualmente trabalhando em projetos para o meu portfolio.
 
 ## 🛠 Recursos que utilizo
