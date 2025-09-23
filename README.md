@@ -7,7 +7,6 @@
 
 ####  🎲 Bancos de Dados
 ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-9cf?style=for-the-badge&logo=postgresql&logoColor=black)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-9cf?style=for-the-badge&logo=mysql&logoColor=black)&nbsp;
 ![Oracle](https://img.shields.io/badge/Oracle-9cf?style=for-the-badge&logo=Oracle&logoColor=black)&nbsp;
 
 #### ⌨️ Linguagens de Programação
